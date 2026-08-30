@@ -1,0 +1,60 @@
+about:
+  description: Upgrade all the things
+  license: GPL-3.0
+  homepage: 
+  head: 28187c5
+  archived: false
+  latestVersion: v17.9.0
+  collectedAt: 2026-08-30T05:39:24Z
+timeline:
+  created: 2022-10-11
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-28
+popularity:
+  star: 4447
+  watcher: 19
+  fork: 264
+  release: 66
+  contributor: 302
+  pullRequest: 263
+  issue: 751
+language:
+  Rust: 520432
+  Vim Script: 1662
+  Shell: 343
+  Emacs Lisp: 174
+  KakouneScript: 70
+totalLine: 522681
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 17
+    openPR: 7
+    closedIssue: 4
+    openIssue: 9
+    commit: 20
+  last90d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 117
+    openPR: 17
+    closedIssue: 35
+    openIssue: 40
+    commit: 153
+  last180d:
+    since: 2026-03-03
+    release: 13
+    mergedPR: 257
+    openPR: 20
+    closedIssue: 70
+    openIssue: 63
+    commit: 293
+  last360d:
+    since: 2025-09-04
+    release: 26
+    mergedPR: 573
+    openPR: 24
+    closedIssue: 141
+    openIssue: 93
+    commit: 635
