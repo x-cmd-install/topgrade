@@ -5,13 +5,13 @@ about:
   head: 1e7669c
   archived: false
   latestVersion: v17.9.0
-  collectedAt: 2026-09-04T20:13:19Z
+  collectedAt: 2026-09-04T20:37:13Z
 timeline:
   created: 2022-10-11
   lastCommit: 2026-09-04
   lastRelease: 2026-07-28
 popularity:
-  star: 4482
+  star: 4483
   watcher: 19
   fork: 269
   release: 66
