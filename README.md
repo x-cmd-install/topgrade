@@ -84,13 +84,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **1** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **3** are ✅ on the latest upstream release, **85** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `17.9.0` | ⚠️ outdated |
 | Nix unstable | `17.9.0` | ⚠️ outdated |
-| Void | `17.9.0` | ⚠️ outdated |
+| Void | `17.10.0` | ✅ latest |
 | Alpine edge | `17.9.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `17.9.0` | ⚠️ outdated |
 
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:31:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:18:20Z._
