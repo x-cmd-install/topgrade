@@ -14,11 +14,11 @@ x install topgrade
 
 ## Code insight
 
-Total: **14,720** lines of code across **56** files in the top 5 languages.
+Total: **14,729** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,890 | 647 | 2,372 | 46 |
+| Rust | 12,899 | 647 | 2,373 | 46 |
 | Yaml | 1,537 | 9 | 10 | 1 |
 | Toml | 208 | 356 | 161 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
@@ -41,46 +41,46 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v17.12.0` (2026-09-20)
-- **Last commit**: 2026-09-20
+- **Latest**: `v17.12.1` (2026-09-21)
+- **Last commit**: 2026-09-21
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,568 · **Forks**: 281 · **Open issues**: 767 · **Contributors**: 311
+- **Stars**: 4,575 · **Forks**: 281 · **Open issues**: 768 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 1238 · **Open PRs**: 30 · **Closed issues**: 589 · **Open issues**: 178 · **Commits**: 2422
+- **Releases**: 71 · **Merged PRs**: 1243 · **Open PRs**: 28 · **Closed issues**: 591 · **Open issues**: 177 · **Commits**: 2427
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 4 | 51 | 5 | 12 | 10 | 0 |
-| last60d | 2026-07-23 | 5 | 82 | 9 | 17 | 17 | 0 |
-| 90d | 2026-06-23 | 7 | 136 | 15 | 42 | 37 | 0 |
-| last180d | 2026-03-25 | 15 | 266 | 19 | 76 | 57 | 0 |
-| 360d | 2025-09-26 | 30 | 607 | 22 | 151 | 90 | 0 |
-| last720d | 2024-10-01 | 35 | 776 | 27 | 294 | 122 | 841 |
+| 30d | 2026-08-23 | 5 | 56 | 3 | 14 | 8 | 63 |
+| last60d | 2026-07-24 | 6 | 84 | 7 | 17 | 16 | 81 |
+| 90d | 2026-06-24 | 8 | 140 | 13 | 43 | 34 | 171 |
+| last180d | 2026-03-26 | 16 | 268 | 17 | 78 | 56 | 298 |
+| 360d | 2025-09-27 | 31 | 608 | 20 | 153 | 89 | 664 |
+| last720d | 2024-10-02 | 36 | 781 | 25 | 296 | 121 | 846 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [topgrade-v17.12.0-aarch64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-aarch64-apple-darwin.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
-| [topgrade-v17.12.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-aarch64-unknown-linux-gnu.tar.gz) | 5.7 MiB | `native/linux/arm64/glibc` |
-| [topgrade-v17.12.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-aarch64-unknown-linux-musl.tar.gz) | 5.7 MiB | `native/linux/arm64/musl` |
-| [topgrade-v17.12.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-armv7-unknown-linux-gnueabihf.tar.gz) | 5.6 MiB | `native/linux/arm/glibc` |
-| [topgrade-v17.12.0-x86_64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-x86_64-apple-darwin.tar.gz) | 5.0 MiB | `native/darwin/x64` |
-| [topgrade-v17.12.0-x86_64-pc-windows-msvc.zip](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
-| [topgrade-v17.12.0-x86_64-unknown-freebsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-x86_64-unknown-freebsd.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [topgrade-v17.12.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
-| [topgrade-v17.12.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-x86_64-unknown-linux-musl.tar.gz) | 6.2 MiB | `native/linux/x64/musl` |
-| [topgrade-v17.12.0-x86_64-unknown-openbsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade-v17.12.0-x86_64-unknown-openbsd.tar.gz) | 5.9 MiB | `native/linux/x64` |
-| [topgrade_17.12.0_amd64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade_17.12.0_amd64.deb) | 4.2 MiB | `runtime/deb/amd64` |
-| [topgrade_17.12.0_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade_17.12.0_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
-| [topgrade_17.12.0_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.0/topgrade_17.12.0_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
+| [topgrade-v17.12.1-aarch64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-aarch64-apple-darwin.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [topgrade-v17.12.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-aarch64-unknown-linux-gnu.tar.gz) | 5.7 MiB | `native/linux/arm64/glibc` |
+| [topgrade-v17.12.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-aarch64-unknown-linux-musl.tar.gz) | 5.7 MiB | `native/linux/arm64/musl` |
+| [topgrade-v17.12.1-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-armv7-unknown-linux-gnueabihf.tar.gz) | 5.6 MiB | `native/linux/arm/glibc` |
+| [topgrade-v17.12.1-x86_64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-x86_64-apple-darwin.tar.gz) | 5.0 MiB | `native/darwin/x64` |
+| [topgrade-v17.12.1-x86_64-pc-windows-msvc.zip](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
+| [topgrade-v17.12.1-x86_64-unknown-freebsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-x86_64-unknown-freebsd.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [topgrade-v17.12.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
+| [topgrade-v17.12.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-x86_64-unknown-linux-musl.tar.gz) | 6.2 MiB | `native/linux/x64/musl` |
+| [topgrade-v17.12.1-x86_64-unknown-openbsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade-v17.12.1-x86_64-unknown-openbsd.tar.gz) | 5.9 MiB | `native/linux/x64` |
+| [topgrade_17.12.1_amd64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade_17.12.1_amd64.deb) | 4.2 MiB | `runtime/deb/amd64` |
+| [topgrade_17.12.1_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade_17.12.1_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
+| [topgrade_17.12.1_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.12.1/topgrade_17.12.1_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:15:48Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:16:47Z._
