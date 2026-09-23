@@ -4,7 +4,7 @@
 
 Upgrade all the things
 
-[![x-cmd/install — topgrade Code Quality Monitoring Repo Card](https://repo.x-cmd.io/topgrade.svg?lang=zh)](https://x-cmd.com/install/topgrade)
+[![x-cmd/install — topgrade Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/topgrade.svg?lang=zh)](https://x-cmd.com/install/topgrade)
 
 ## 安装
 
@@ -42,27 +42,27 @@ x install topgrade
 ## 发布
 
 - **最新版本**: `v17.12.1` (2026-09-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 4,575 · **Fork**: 281 · **开放 issue**: 768 · **贡献者**: 311
+- **Star**: 4,578 · **Fork**: 282 · **开放 issue**: 770 · **贡献者**: 311
 
 ## 累计统计
 
-- **发布数**: 71 · **已合并 PR**: 1243 · **开放 PR**: 28 · **已关闭 issue**: 591 · **开放 issue**: 177 · **提交数**: 2427
+- **发布数**: 71 · **已合并 PR**: 1244 · **开放 PR**: 29 · **已关闭 issue**: 591 · **开放 issue**: 179 · **提交数**: 2428
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 56 | 3 | 14 | 8 | 63 |
-| last60d | 2026-07-24 | 6 | 84 | 7 | 17 | 16 | 81 |
-| 90d | 2026-06-24 | 8 | 140 | 13 | 43 | 34 | 171 |
-| last180d | 2026-03-26 | 16 | 268 | 17 | 78 | 56 | 298 |
-| 360d | 2025-09-27 | 31 | 608 | 20 | 153 | 89 | 664 |
-| last720d | 2024-10-02 | 36 | 781 | 25 | 296 | 121 | 846 |
+| 30d | 2026-08-24 | 5 | 55 | 4 | 12 | 10 | 64 |
+| last60d | 2026-07-25 | 6 | 84 | 8 | 17 | 18 | 82 |
+| 90d | 2026-06-25 | 8 | 141 | 14 | 42 | 36 | 172 |
+| last180d | 2026-03-27 | 16 | 266 | 18 | 78 | 57 | 299 |
+| 360d | 2025-09-28 | 31 | 606 | 21 | 153 | 91 | 665 |
+| last720d | 2024-10-03 | 36 | 782 | 26 | 296 | 123 | 847 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ topgrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:16:48Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:35:30Z._

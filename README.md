@@ -4,7 +4,7 @@
 
 Upgrade all the things
 
-[![x-cmd/install — topgrade Code Quality Monitoring Repo Card](https://repo.x-cmd.io/topgrade.svg)](https://x-cmd.com/install/topgrade)
+[![x-cmd/install — topgrade Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/topgrade.svg)](https://x-cmd.com/install/topgrade)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.12.1` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,575 · **Forks**: 281 · **Open issues**: 768 · **Contributors**: 311
+- **Stars**: 4,578 · **Forks**: 282 · **Open issues**: 770 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 1243 · **Open PRs**: 28 · **Closed issues**: 591 · **Open issues**: 177 · **Commits**: 2427
+- **Releases**: 71 · **Merged PRs**: 1244 · **Open PRs**: 29 · **Closed issues**: 591 · **Open issues**: 179 · **Commits**: 2428
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 56 | 3 | 14 | 8 | 63 |
-| last60d | 2026-07-24 | 6 | 84 | 7 | 17 | 16 | 81 |
-| 90d | 2026-06-24 | 8 | 140 | 13 | 43 | 34 | 171 |
-| last180d | 2026-03-26 | 16 | 268 | 17 | 78 | 56 | 298 |
-| 360d | 2025-09-27 | 31 | 608 | 20 | 153 | 89 | 664 |
-| last720d | 2024-10-02 | 36 | 781 | 25 | 296 | 121 | 846 |
+| 30d | 2026-08-24 | 5 | 55 | 4 | 12 | 10 | 64 |
+| last60d | 2026-07-25 | 6 | 84 | 8 | 17 | 18 | 82 |
+| 90d | 2026-06-25 | 8 | 141 | 14 | 42 | 36 | 172 |
+| last180d | 2026-03-27 | 16 | 266 | 18 | 78 | 57 | 299 |
+| 360d | 2025-09-28 | 31 | 606 | 21 | 153 | 91 | 665 |
+| last720d | 2024-10-03 | 36 | 782 | 26 | 296 | 123 | 847 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:16:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:35:29Z._
