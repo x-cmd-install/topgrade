@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,588 · **Forks**: 283 · **Open issues**: 773 · **Contributors**: 312
+- **Stars**: 4,593 · **Forks**: 282 · **Open issues**: 774 · **Contributors**: 312
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 1247 · **Open PRs**: 30 · **Closed issues**: 592 · **Open issues**: 181 · **Commits**: 2432
+- **Releases**: 72 · **Merged PRs**: 1247 · **Open PRs**: 31 · **Closed issues**: 593 · **Open issues**: 181 · **Commits**: 2432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 6 | 57 | 4 | 13 | 10 | 68 |
-| last60d | 2026-07-29 | 6 | 79 | 8 | 18 | 17 | 86 |
-| 90d | 2026-06-29 | 9 | 142 | 15 | 42 | 38 | 176 |
-| last180d | 2026-03-31 | 17 | 267 | 19 | 78 | 59 | 303 |
-| 360d | 2025-10-02 | 32 | 604 | 22 | 154 | 93 | 669 |
-| last720d | 2024-10-07 | 36 | 778 | 27 | 291 | 125 | 846 |
+| 30d | 2026-08-29 | 6 | 57 | 5 | 13 | 10 | 59 |
+| last60d | 2026-07-30 | 6 | 78 | 9 | 19 | 17 | 80 |
+| 90d | 2026-06-30 | 9 | 140 | 16 | 43 | 37 | 173 |
+| last180d | 2026-04-01 | 17 | 266 | 20 | 79 | 59 | 287 |
+| 360d | 2025-10-03 | 32 | 603 | 23 | 155 | 93 | 663 |
+| last720d | 2024-10-08 | 36 | 777 | 28 | 291 | 125 | 846 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:15:49Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:25:17Z._
