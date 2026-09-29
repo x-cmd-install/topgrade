@@ -14,11 +14,11 @@ x install topgrade
 
 ## Code insight
 
-Total: **14,764** lines of code across **56** files in the top 5 languages.
+Total: **14,779** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,918 | 652 | 2,375 | 46 |
+| Rust | 12,933 | 653 | 2,377 | 46 |
 | Yaml | 1,553 | 9 | 10 | 1 |
 | Toml | 208 | 356 | 161 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
@@ -26,7 +26,7 @@ Total: **14,764** lines of code across **56** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.2 / 10**
+Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.12.2` (2026-09-26)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-28
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,593 · **Forks**: 282 · **Open issues**: 774 · **Contributors**: 312
+- **Stars**: 4,600 · **Forks**: 282 · **Open issues**: 776 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 1247 · **Open PRs**: 31 · **Closed issues**: 593 · **Open issues**: 181 · **Commits**: 2432
+- **Releases**: 72 · **Merged PRs**: 1251 · **Open PRs**: 29 · **Closed issues**: 595 · **Open issues**: 181 · **Commits**: 2436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 6 | 57 | 5 | 13 | 10 | 59 |
-| last60d | 2026-07-30 | 6 | 78 | 9 | 19 | 17 | 80 |
-| 90d | 2026-06-30 | 9 | 140 | 16 | 43 | 37 | 173 |
-| last180d | 2026-04-01 | 17 | 266 | 20 | 79 | 59 | 287 |
-| 360d | 2025-10-03 | 32 | 603 | 23 | 155 | 93 | 663 |
-| last720d | 2024-10-08 | 36 | 777 | 28 | 291 | 125 | 846 |
+| 30d | 2026-08-30 | 6 | 61 | 3 | 14 | 11 | 63 |
+| last60d | 2026-07-31 | 6 | 81 | 7 | 20 | 18 | 84 |
+| 90d | 2026-07-01 | 9 | 144 | 14 | 44 | 38 | 177 |
+| last180d | 2026-04-02 | 17 | 266 | 18 | 81 | 59 | 291 |
+| 360d | 2025-10-04 | 32 | 607 | 21 | 157 | 93 | 667 |
+| last720d | 2024-10-09 | 36 | 780 | 26 | 293 | 125 | 847 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:25:17Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:54:13Z._
