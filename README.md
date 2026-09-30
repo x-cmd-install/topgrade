@@ -30,8 +30,8 @@ Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.12.2` (2026-09-26)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,600 · **Forks**: 282 · **Open issues**: 776 · **Contributors**: 313
+- **Stars**: 4,606 · **Forks**: 282 · **Open issues**: 776 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 1251 · **Open PRs**: 29 · **Closed issues**: 595 · **Open issues**: 181 · **Commits**: 2436
+- **Releases**: 72 · **Merged PRs**: 1252 · **Open PRs**: 28 · **Closed issues**: 595 · **Open issues**: 181 · **Commits**: 2437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 6 | 61 | 3 | 14 | 11 | 63 |
-| last60d | 2026-07-31 | 6 | 81 | 7 | 20 | 18 | 84 |
-| 90d | 2026-07-01 | 9 | 144 | 14 | 44 | 38 | 177 |
-| last180d | 2026-04-02 | 17 | 266 | 18 | 81 | 59 | 291 |
-| 360d | 2025-10-04 | 32 | 607 | 21 | 157 | 93 | 667 |
-| last720d | 2024-10-09 | 36 | 780 | 26 | 293 | 125 | 847 |
+| 30d | 2026-08-31 | 6 | 60 | 2 | 14 | 11 | 64 |
+| last60d | 2026-08-01 | 6 | 82 | 6 | 20 | 18 | 85 |
+| 90d | 2026-07-02 | 9 | 143 | 13 | 44 | 38 | 178 |
+| last180d | 2026-04-03 | 15 | 265 | 17 | 81 | 59 | 292 |
+| 360d | 2025-10-05 | 32 | 608 | 20 | 157 | 93 | 668 |
+| last720d | 2024-10-10 | 36 | 781 | 25 | 292 | 125 | 847 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:54:13Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:43:02Z._
