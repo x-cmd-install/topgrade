@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4774846,
       "digest": "sha256:7d00e60656ff41a95b26e76b63bf4777f7d1272bfa969dbd4669d665629ab7c2",
-      "download_count": 285,
+      "download_count": 315,
       "created_at": "2026-09-26T15:20:02Z",
       "updated_at": "2026-09-26T15:20:03Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6015161,
       "digest": "sha256:ebe0750313da6ae5cca7888f0ca4652272b29b8711b1e8c2ded35b8ce29a57d4",
-      "download_count": 214,
+      "download_count": 240,
       "created_at": "2026-09-26T15:27:13Z",
       "updated_at": "2026-09-26T15:27:14Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6016221,
       "digest": "sha256:a762e7161ac1370f77795be4cc483e183b93249db8b58e1ac355bd02a10bb2e3",
-      "download_count": 104,
+      "download_count": 121,
       "created_at": "2026-09-26T15:21:19Z",
       "updated_at": "2026-09-26T15:21:19Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5917874,
       "digest": "sha256:1e220209f4c89d15d3a6a8ebe8319cd97046f516a1265a5a3bbd0b511051174a",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-26T15:23:43Z",
       "updated_at": "2026-09-26T15:23:44Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5231513,
       "digest": "sha256:b5ea0731c7ea6073f9b1265396263d27889c3c2b40c4041a6a78d7a551dfac57",
-      "download_count": 106,
+      "download_count": 121,
       "created_at": "2026-09-26T15:24:30Z",
       "updated_at": "2026-09-26T15:24:31Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4725618,
       "digest": "sha256:af1149da267ad9d5f7521ea6ebfc63fc3a9fee6784d25f5b3dd9b63cfb4713ca",
-      "download_count": 2098,
+      "download_count": 2413,
       "created_at": "2026-09-26T15:26:04Z",
       "updated_at": "2026-09-26T15:26:05Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6436431,
       "digest": "sha256:4d6660a2f021cf34c823c1baf4499a7cace581b5415935f6c5fc5484858faf8e",
-      "download_count": 1637,
+      "download_count": 1802,
       "created_at": "2026-09-26T15:24:03Z",
       "updated_at": "2026-09-26T15:24:04Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-x86_64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6551421,
       "digest": "sha256:ad6d9ca6932332757f21e4078ae4290cced235f92a4d380df3a250e6da779ca9",
-      "download_count": 1304,
+      "download_count": 1425,
       "created_at": "2026-09-26T15:19:41Z",
       "updated_at": "2026-09-26T15:19:42Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade-v17.12.2-x86_64-unknown-linux-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4392244,
       "digest": "sha256:d7675f6a66e0751412fb54ea50ad10a8f89db6db26d16d705f1b0050091d1574",
-      "download_count": 545,
+      "download_count": 596,
       "created_at": "2026-09-26T15:24:03Z",
       "updated_at": "2026-09-26T15:24:03Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade_17.12.2_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3870080,
       "digest": "sha256:86644d9f5a888da5c6fea155ba003b525ebb0b3ba48982e1880064064cb3d5c9",
-      "download_count": 71,
+      "download_count": 77,
       "created_at": "2026-09-26T15:27:13Z",
       "updated_at": "2026-09-26T15:27:14Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.12.2/topgrade_17.12.2_arm64.deb"
