@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.12.2` (2026-09-26)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-01
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,612 · **Forks**: 282 · **Open issues**: 776 · **Contributors**: 313
+- **Stars**: 4,614 · **Forks**: 282 · **Open issues**: 779 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 1252 · **Open PRs**: 28 · **Closed issues**: 595 · **Open issues**: 181 · **Commits**: 2437
+- **Releases**: 72 · **Merged PRs**: 1253 · **Open PRs**: 29 · **Closed issues**: 598 · **Open issues**: 181 · **Commits**: 2438
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 6 | 58 | 2 | 14 | 11 | 64 |
-| last60d | 2026-08-02 | 6 | 82 | 6 | 20 | 18 | 85 |
-| 90d | 2026-07-03 | 9 | 143 | 13 | 43 | 38 | 178 |
-| last180d | 2026-04-04 | 15 | 264 | 17 | 80 | 59 | 292 |
-| 360d | 2025-10-06 | 32 | 603 | 19 | 157 | 93 | 668 |
-| last720d | 2024-10-11 | 36 | 780 | 25 | 291 | 125 | 847 |
+| 30d | 2026-09-02 | 6 | 59 | 3 | 15 | 9 | 65 |
+| last60d | 2026-08-03 | 6 | 82 | 7 | 22 | 17 | 86 |
+| 90d | 2026-07-04 | 9 | 142 | 13 | 46 | 37 | 179 |
+| last180d | 2026-04-05 | 15 | 261 | 18 | 82 | 59 | 293 |
+| 360d | 2025-10-07 | 32 | 604 | 20 | 160 | 93 | 669 |
+| last720d | 2024-10-12 | 35 | 781 | 26 | 293 | 125 | 847 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:51:59Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:44:54Z._
