@@ -18,7 +18,7 @@ Total: **14,822** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,998 | 660 | 2,384 | 46 |
+| Rust | 12,998 | 662 | 2,384 | 46 |
 | Yaml | 1,529 | 9 | 10 | 1 |
 | Toml | 210 | 361 | 163 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.12.3` (2026-10-02)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-10
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,646 · **Forks**: 283 · **Open issues**: 783 · **Contributors**: 313
+- **Stars**: 4,651 · **Forks**: 284 · **Open issues**: 783 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1262 · **Open PRs**: 31 · **Closed issues**: 603 · **Open issues**: 180 · **Commits**: 2457
+- **Releases**: 73 · **Merged PRs**: 1263 · **Open PRs**: 31 · **Closed issues**: 603 · **Open issues**: 180 · **Commits**: 2458
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 7 | 48 | 7 | 17 | 7 | 54 |
-| last60d | 2026-08-11 | 7 | 81 | 8 | 25 | 16 | 104 |
-| 90d | 2026-07-12 | 9 | 135 | 13 | 40 | 26 | 179 |
-| last180d | 2026-04-13 | 15 | 248 | 20 | 85 | 57 | 295 |
-| 360d | 2025-10-15 | 33 | 608 | 22 | 165 | 92 | 683 |
-| last720d | 2024-10-20 | 36 | 782 | 28 | 292 | 122 | 858 |
+| 30d | 2026-09-11 | 7 | 46 | 7 | 17 | 7 | 34 |
+| last60d | 2026-08-12 | 7 | 81 | 8 | 25 | 16 | 92 |
+| 90d | 2026-07-13 | 9 | 133 | 13 | 39 | 26 | 165 |
+| last180d | 2026-04-14 | 15 | 248 | 20 | 85 | 57 | 285 |
+| 360d | 2025-10-16 | 33 | 609 | 22 | 165 | 92 | 680 |
+| last720d | 2024-10-21 | 36 | 781 | 28 | 292 | 122 | 859 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:45:38Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:39:15Z._
