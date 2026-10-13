@@ -26,7 +26,7 @@ Total: **14,822** lines of code across **56** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.1 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.12.3` (2026-10-02)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-12
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,655 · **Forks**: 285 · **Open issues**: 784 · **Contributors**: 313
+- **Stars**: 4,657 · **Forks**: 287 · **Open issues**: 785 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1263 · **Open PRs**: 33 · **Closed issues**: 603 · **Open issues**: 181 · **Commits**: 2458
+- **Releases**: 73 · **Merged PRs**: 1264 · **Open PRs**: 34 · **Closed issues**: 604 · **Open issues**: 181 · **Commits**: 2459
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 5 | 44 | 9 | 15 | 7 | 34 |
-| last60d | 2026-08-13 | 7 | 81 | 10 | 25 | 17 | 92 |
-| 90d | 2026-07-14 | 9 | 131 | 15 | 36 | 27 | 165 |
-| last180d | 2026-04-15 | 15 | 247 | 22 | 85 | 58 | 285 |
-| 360d | 2025-10-17 | 33 | 609 | 24 | 165 | 93 | 680 |
-| last720d | 2024-10-22 | 36 | 781 | 30 | 292 | 123 | 859 |
+| 30d | 2026-09-13 | 5 | 38 | 10 | 15 | 7 | 35 |
+| last60d | 2026-08-14 | 7 | 79 | 11 | 26 | 17 | 93 |
+| 90d | 2026-07-15 | 9 | 129 | 16 | 36 | 26 | 166 |
+| last180d | 2026-04-16 | 15 | 245 | 23 | 86 | 57 | 286 |
+| 360d | 2025-10-18 | 33 | 609 | 25 | 166 | 93 | 681 |
+| last720d | 2024-10-23 | 36 | 782 | 31 | 292 | 123 | 858 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:06:41Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:56:47Z._
