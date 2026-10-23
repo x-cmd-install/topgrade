@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,684 · **Forks**: 291 · **Open issues**: 794 · **Contributors**: 320
+- **Stars**: 4,687 · **Forks**: 292 · **Open issues**: 794 · **Contributors**: 320
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1297 · **Open PRs**: 29 · **Closed issues**: 616 · **Open issues**: 178 · **Commits**: 2492
+- **Releases**: 77 · **Merged PRs**: 1297 · **Open PRs**: 30 · **Closed issues**: 616 · **Open issues**: 178 · **Commits**: 2492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 49 | 5 | 18 | 6 | 52 |
-| last60d | 2026-08-23 | 11 | 108 | 6 | 35 | 13 | 117 |
-| 90d | 2026-07-24 | 12 | 137 | 9 | 38 | 21 | 171 |
-| last180d | 2026-04-25 | 18 | 266 | 18 | 93 | 53 | 310 |
-| 360d | 2025-10-27 | 37 | 629 | 20 | 176 | 90 | 704 |
-| last720d | 2024-11-01 | 40 | 811 | 26 | 301 | 119 | 886 |
+| 30d | 2026-09-23 | 6 | 48 | 6 | 18 | 5 | 52 |
+| last60d | 2026-08-24 | 11 | 106 | 7 | 33 | 13 | 117 |
+| 90d | 2026-07-25 | 12 | 136 | 10 | 38 | 21 | 171 |
+| last180d | 2026-04-26 | 18 | 266 | 19 | 92 | 53 | 310 |
+| 360d | 2025-10-28 | 37 | 629 | 21 | 176 | 90 | 704 |
+| last720d | 2024-11-02 | 40 | 811 | 27 | 301 | 119 | 886 |
 
 ## Release assets
 
@@ -82,6 +82,18 @@ Lowest-scoring checks:
 | [topgrade_17.14.1_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.14.1/topgrade_17.14.1_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
 | [topgrade_17.14.1_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.14.1/topgrade_17.14.1_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
 
+## Distribution status
+
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **15** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `17.14.1` | ✅ latest |
+| Nix unstable | `17.12.3` | ⚠️ outdated |
+| Void | `17.14.1` | ✅ latest |
+| Alpine edge | `17.13.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `17.13.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `topgrade` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:43:56Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:44:51Z._

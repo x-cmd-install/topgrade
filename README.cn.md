@@ -47,22 +47,22 @@ x install topgrade
 
 ## 流行度
 
-- **Star**: 4,684 · **Fork**: 291 · **开放 issue**: 794 · **贡献者**: 320
+- **Star**: 4,687 · **Fork**: 292 · **开放 issue**: 794 · **贡献者**: 320
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 1297 · **开放 PR**: 29 · **已关闭 issue**: 616 · **开放 issue**: 178 · **提交数**: 2492
+- **发布数**: 77 · **已合并 PR**: 1297 · **开放 PR**: 30 · **已关闭 issue**: 616 · **开放 issue**: 178 · **提交数**: 2492
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 49 | 5 | 18 | 6 | 52 |
-| last60d | 2026-08-23 | 11 | 108 | 6 | 35 | 13 | 117 |
-| 90d | 2026-07-24 | 12 | 137 | 9 | 38 | 21 | 171 |
-| last180d | 2026-04-25 | 18 | 266 | 18 | 93 | 53 | 310 |
-| 360d | 2025-10-27 | 37 | 629 | 20 | 176 | 90 | 704 |
-| last720d | 2024-11-01 | 40 | 811 | 26 | 301 | 119 | 886 |
+| 30d | 2026-09-23 | 6 | 48 | 6 | 18 | 5 | 52 |
+| last60d | 2026-08-24 | 11 | 106 | 7 | 33 | 13 | 117 |
+| 90d | 2026-07-25 | 12 | 136 | 10 | 38 | 21 | 171 |
+| last180d | 2026-04-26 | 18 | 266 | 19 | 92 | 53 | 310 |
+| 360d | 2025-10-28 | 37 | 629 | 21 | 176 | 90 | 704 |
+| last720d | 2024-11-02 | 40 | 811 | 27 | 301 | 119 | 886 |
 
 ## Release 资产
 
@@ -82,6 +82,18 @@ x install topgrade
 | [topgrade_17.14.1_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.14.1/topgrade_17.14.1_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
 | [topgrade_17.14.1_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.14.1/topgrade_17.14.1_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/topgrade) 上共有 **102** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**73** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `17.14.1` | ✅ latest |
+| Nix unstable | `17.12.3` | ⚠️ outdated |
+| Void | `17.14.1` | ✅ latest |
+| Alpine edge | `17.13.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `17.13.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 topgrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `topgrade` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -91,4 +103,4 @@ topgrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:43:57Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:44:52Z._
