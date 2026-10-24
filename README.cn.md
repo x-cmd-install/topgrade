@@ -26,12 +26,12 @@ x install topgrade
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.8 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -42,27 +42,27 @@ x install topgrade
 ## 发布
 
 - **最新版本**: `v17.14.1` (2026-10-20)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 4,687 · **Fork**: 292 · **开放 issue**: 794 · **贡献者**: 320
+- **Star**: 4,692 · **Fork**: 292 · **开放 issue**: 795 · **贡献者**: 320
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 1297 · **开放 PR**: 30 · **已关闭 issue**: 616 · **开放 issue**: 178 · **提交数**: 2492
+- **发布数**: 77 · **已合并 PR**: 1299 · **开放 PR**: 28 · **已关闭 issue**: 616 · **开放 issue**: 179 · **提交数**: 2494
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 48 | 6 | 18 | 5 | 52 |
-| last60d | 2026-08-24 | 11 | 106 | 7 | 33 | 13 | 117 |
-| 90d | 2026-07-25 | 12 | 136 | 10 | 38 | 21 | 171 |
-| last180d | 2026-04-26 | 18 | 266 | 19 | 92 | 53 | 310 |
-| 360d | 2025-10-28 | 37 | 629 | 21 | 176 | 90 | 704 |
-| last720d | 2024-11-02 | 40 | 811 | 27 | 301 | 119 | 886 |
+| 30d | 2026-09-24 | 6 | 50 | 4 | 18 | 6 | 54 |
+| last60d | 2026-08-25 | 11 | 108 | 5 | 33 | 13 | 119 |
+| 90d | 2026-07-26 | 12 | 135 | 8 | 38 | 22 | 173 |
+| last180d | 2026-04-27 | 18 | 266 | 17 | 92 | 54 | 312 |
+| 360d | 2025-10-29 | 37 | 630 | 19 | 176 | 90 | 706 |
+| last720d | 2024-11-03 | 40 | 813 | 25 | 301 | 120 | 888 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ topgrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:44:52Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:35:46Z._
