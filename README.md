@@ -26,12 +26,12 @@ Total: **15,199** lines of code across **56** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.14.1` (2026-10-20)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,716 · **Forks**: 295 · **Open issues**: 797 · **Contributors**: 321
+- **Stars**: 4,721 · **Forks**: 296 · **Open issues**: 797 · **Contributors**: 321
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 1307 · **Open PRs**: 31 · **Closed issues**: 619 · **Open issues**: 178 · **Commits**: 2502
+- **Releases**: 77 · **Merged PRs**: 1308 · **Open PRs**: 30 · **Closed issues**: 619 · **Open issues**: 178 · **Commits**: 2503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 5 | 51 | 8 | 16 | 5 | 53 |
-| last60d | 2026-08-31 | 11 | 113 | 8 | 33 | 13 | 123 |
-| 90d | 2026-08-01 | 11 | 136 | 11 | 40 | 19 | 154 |
-| last180d | 2026-05-03 | 18 | 271 | 20 | 94 | 53 | 317 |
-| 360d | 2025-11-04 | 34 | 611 | 21 | 171 | 88 | 683 |
-| last720d | 2024-11-09 | 40 | 821 | 28 | 301 | 119 | 896 |
+| 30d | 2026-10-01 | 5 | 51 | 7 | 13 | 5 | 54 |
+| last60d | 2026-09-01 | 11 | 112 | 7 | 33 | 13 | 124 |
+| 90d | 2026-08-02 | 11 | 137 | 10 | 40 | 19 | 155 |
+| last180d | 2026-05-04 | 18 | 270 | 19 | 94 | 53 | 318 |
+| 360d | 2025-11-05 | 34 | 611 | 20 | 168 | 87 | 684 |
+| last720d | 2024-11-10 | 40 | 822 | 27 | 300 | 119 | 897 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:49:10Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:46:03Z._
