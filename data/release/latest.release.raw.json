@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4877598,
       "digest": "sha256:33f47f55f1834576f105847aefc3c29b8c5f283d0f7fcf83bff3aef700fe1881",
-      "download_count": 88,
+      "download_count": 129,
       "created_at": "2026-11-03T15:37:46Z",
       "updated_at": "2026-11-03T15:37:47Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6103139,
       "digest": "sha256:9a80d6b63d3078c43b37b4ef40a5a45a6d215aeb85d49182766fb0e0bedff4c2",
-      "download_count": 44,
+      "download_count": 94,
       "created_at": "2026-11-03T15:41:05Z",
       "updated_at": "2026-11-03T15:41:06Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6101858,
       "digest": "sha256:cd673cfa391fc7e4146bd30e4281f34b51464d68af4b4585cc01eafa79ca446f",
-      "download_count": 35,
+      "download_count": 47,
       "created_at": "2026-11-03T15:32:23Z",
       "updated_at": "2026-11-03T15:32:23Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5991267,
       "digest": "sha256:2a94a53e72951797b02c468f2bac87b0ef12809c9894340fa5628d94f4220757",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-03T15:37:58Z",
       "updated_at": "2026-11-03T15:37:59Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5321242,
       "digest": "sha256:01b9a691161bf8a15e3fbca7da018474b3943ac40d92eaae46d630a1a49171f1",
-      "download_count": 25,
+      "download_count": 34,
       "created_at": "2026-11-03T15:51:42Z",
       "updated_at": "2026-11-03T15:51:43Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4875936,
       "digest": "sha256:8a43744e8a31b2ee3f76212bce807b0e51436c2c8362832ed04552aee1668373",
-      "download_count": 929,
+      "download_count": 1355,
       "created_at": "2026-11-03T15:38:45Z",
       "updated_at": "2026-11-03T15:38:46Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6078658,
       "digest": "sha256:cb461cd8e747a529c4b6e77e46e73f576237b03ac516b3f588de0d0f5d1d5111",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-03T15:34:18Z",
       "updated_at": "2026-11-03T15:34:19Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-x86_64-unknown-freebsd.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6540225,
       "digest": "sha256:d360a75625e94c2d7288f86a7fbe21622bd73498b40168e7385edd71a8e1133d",
-      "download_count": 708,
+      "download_count": 1267,
       "created_at": "2026-11-03T15:32:58Z",
       "updated_at": "2026-11-03T15:32:59Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6682869,
       "digest": "sha256:8f0f2ae561e96ad3d4d8775d19fdfbfe4f1dc5e4ad678ab3bfb24a1ce5c8b696",
-      "download_count": 823,
+      "download_count": 1023,
       "created_at": "2026-11-03T15:35:51Z",
       "updated_at": "2026-11-03T15:35:52Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-x86_64-unknown-linux-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6143730,
       "digest": "sha256:dfc162ef4db3c22b3a1b49100dddecc435bda2e9d57f2e972f43b7ffe450064c",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-11-03T15:53:51Z",
       "updated_at": "2026-11-03T15:53:51Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade-v17.15.0-x86_64-unknown-openbsd.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4415696,
       "digest": "sha256:9b72431bc3147c9bff538de18f8420a084e58dee05de2e1a1a207cd1c51bf37f",
-      "download_count": 326,
+      "download_count": 423,
       "created_at": "2026-11-03T15:32:58Z",
       "updated_at": "2026-11-03T15:32:58Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade_17.15.0_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3879160,
       "digest": "sha256:a8f69b9ecc74ef1083b06d06489d1154e1a46f4c0e6fb97f608b8bda0fd605e6",
-      "download_count": 31,
+      "download_count": 46,
       "created_at": "2026-11-03T15:41:05Z",
       "updated_at": "2026-11-03T15:41:07Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade_17.15.0_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3852688,
       "digest": "sha256:e2e1ff6de91e6a94d4ff557c05a1fe3d889381e84f4e41c52f14f55995e45c11",
-      "download_count": 6,
+      "download_count": 12,
       "created_at": "2026-11-03T15:37:58Z",
       "updated_at": "2026-11-03T15:37:59Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.15.0/topgrade_17.15.0_armhf.deb"
