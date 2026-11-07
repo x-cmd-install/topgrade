@@ -1,15 +1,213 @@
-- repo: aosc
-  srcname: app-admin/topgrade
-  binname: topgrade
+- repo: homebrew
+  srcname: topgrade
   visiblename: topgrade
-  version: 16.2.1
+  version: 17.15.0
+  origversion: null
+  status: newest
+  summary: Upgrade all the things
+- repo: chocolatey
+  binname: topgrade
+  visiblename: Topgrade (Portable)
+  version: 17.14.1
   origversion: null
   status: outdated
-  summary: A package manager invoker to upgrade multiple packages with one command
+  summary: Topgrade is a cli program update utility
+- repo: crates_io
+  srcname: topgrade
+  visiblename: topgrade
+  version: 17.15.0
+  origversion: null
+  status: newest
+  summary: Upgrade all the things
+- repo: homebrew
+  srcname: topgrade
+  visiblename: topgrade
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Upgrade all the things
+- repo: alpine_3_19
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 13.0.0
+  origversion: 13.0.0-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers
   maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 13.0.0
+  origversion: 13.0.0-r0
+  status: outdated
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 13.0.0
+  origversion: 13.0.0-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 13.0.0
+  origversion: 13.0.0-r0
+  status: outdated
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 13.0.0
+  origversion: 13.0.0-r0
+  status: outdated
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 14.0.1
+  origversion: 14.0.1-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 14.0.1
+  origversion: 14.0.1-r0
+  status: outdated
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 14.0.1
+  origversion: 14.0.1-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 14.0.1
+  origversion: 14.0.1-r0
+  status: outdated
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 14.0.1
+  origversion: 14.0.1-r0
+  status: outdated
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 16.0.1
+  origversion: 16.0.1-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 16.0.1
+  origversion: 16.0.1-r0
+  status: outdated
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 16.0.1
+  origversion: 16.0.1-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 16.0.1
+  origversion: 16.0.1-r0
+  status: outdated
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: exherbo
   subrepo: keruspe
   srcname: sys-apps/topgrade
@@ -22,6 +220,303 @@
     - fallback-mnt-exherbo@repology
   categories:
     - sys-apps
+- repo: alpine_3_21
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 16.0.1
+  origversion: 16.0.1-r0
+  status: outdated
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 16.0.2
+  origversion: 16.0.2-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 16.0.2
+  origversion: 16.0.2-r0
+  status: outdated
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 16.0.2
+  origversion: 16.0.2-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 16.0.2
+  origversion: 16.0.2-r0
+  status: outdated
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 16.0.2
+  origversion: 16.0.2-r0
+  status: outdated
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 16.8.0
+  origversion: 16.8.0-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 16.8.0
+  origversion: 16.8.0-r0
+  status: outdated
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 16.8.0
+  origversion: 16.8.0-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: freebsd
+  srcname: sysutils/topgrade
+  binname: topgrade
+  visiblename: sysutils/topgrade
+  version: 16.9.0
+  origversion: 16.9.0_6
+  status: outdated
+  summary: Tool for upgrade everything
+  maintainers:
+    - freebsd@scd-systems.net
+  categories:
+    - sysutils
+- repo: alpine_3_23
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 16.8.0
+  origversion: 16.8.0-r0
+  status: outdated
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 16.8.0
+  origversion: 16.8.0-r0
+  status: outdated
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 17.4.0
+  origversion: 17.4.0-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 17.4.0
+  origversion: 17.4.0-r0
+  status: outdated
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 17.4.0
+  origversion: 17.4.0-r0
+  status: outdated
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 17.4.0
+  origversion: 17.4.0-r0
+  status: outdated
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 17.4.0
+  origversion: 17.4.0-r0
+  status: outdated
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 17.15.0
+  origversion: 17.15.0-r0
+  status: newest
+  summary: run upgrades of packages in OS and other package managers
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-bash-completion
+  visiblename: topgrade-bash-completion
+  version: 17.15.0
+  origversion: 17.15.0-r0
+  status: newest
+  summary: Bash completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-doc
+  visiblename: topgrade-doc
+  version: 17.15.0
+  origversion: 17.15.0-r0
+  status: newest
+  summary: run upgrades of packages in OS and other package managers (documentation)
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-fish-completion
+  visiblename: topgrade-fish-completion
+  version: 17.15.0
+  origversion: 17.15.0-r0
+  status: newest
+  summary: Fish completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: topgrade
+  binname: topgrade-zsh-completion
+  visiblename: topgrade-zsh-completion
+  version: 17.15.0
+  origversion: 17.15.0-r0
+  status: newest
+  summary: Zsh completions for topgrade
+  maintainers:
+    - seanmcavoy@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: aosc
+  srcname: app-admin/topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 16.2.1
+  origversion: null
+  status: outdated
+  summary: A package manager invoker to upgrade multiple packages with one command
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: aur
   srcname: topgrade
   binname: topgrade
@@ -48,13 +543,6 @@
     - s34m@aur
   licenses:
     - GPL3
-- repo: chocolatey
-  binname: topgrade
-  visiblename: Topgrade (Portable)
-  version: 17.14.1
-  origversion: null
-  status: outdated
-  summary: Topgrade is a cli program update utility
 - repo: aur
   srcname: topgrade-git
   binname: topgrade-git
@@ -65,226 +553,6 @@
   summary: Upgrade all the things
   maintainers:
     - yochananmarqos@aur
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 13.0.0
-  origversion: 13.0.0-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 13.0.0
-  origversion: 13.0.0-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 13.0.0
-  origversion: 13.0.0-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 13.0.0
-  origversion: 13.0.0-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 13.0.0
-  origversion: 13.0.0-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 14.0.1
-  origversion: 14.0.1-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 14.0.1
-  origversion: 14.0.1-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: topgrade
-  visiblename: topgrade
-  version: 16.6.1
-  origversion: null
-  status: outdated
-  summary: Upgrade all the things
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - i@xyenon.bid
-  licenses:
-    - GPL-3.0-only
-- repo: alpine_3_20
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 14.0.1
-  origversion: 14.0.1-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 14.0.1
-  origversion: 14.0.1-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 14.0.1
-  origversion: 14.0.1-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 16.0.1
-  origversion: 16.0.1-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 16.0.1
-  origversion: 16.0.1-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 16.0.1
-  origversion: 16.0.1-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 16.0.1
-  origversion: 16.0.1-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 16.0.1
-  origversion: 16.0.1-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 16.0.2
-  origversion: 16.0.2-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
   licenses:
     - GPL-3.0-or-later
 - repo: chimera
@@ -298,123 +566,6 @@
   summary: Multiple package-manager system updater
   licenses:
     - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 16.0.2
-  origversion: 16.0.2-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 16.0.2
-  origversion: 16.0.2-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 16.0.2
-  origversion: 16.0.2-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 16.0.2
-  origversion: 16.0.2-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 16.8.0
-  origversion: 16.8.0-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 16.8.0
-  origversion: 16.8.0-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 16.8.0
-  origversion: 16.8.0-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 16.8.0
-  origversion: 16.8.0-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 16.8.0
-  origversion: 16.8.0-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
 - repo: chimera
   subrepo: user
   srcname: topgrade
@@ -424,136 +575,6 @@
   origversion: 17.8.0-r0
   status: outdated
   summary: Multiple package-manager system updater (bash completions)
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 17.4.0
-  origversion: 17.4.0-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 17.4.0
-  origversion: 17.4.0-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 17.4.0
-  origversion: 17.4.0-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 17.4.0
-  origversion: 17.4.0-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_24
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 17.4.0
-  origversion: 17.4.0-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_edge
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 17.13.1
-  origversion: 17.13.1-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_edge
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-bash-completion
-  visiblename: topgrade-bash-completion
-  version: 17.13.1
-  origversion: 17.13.1-r0
-  status: outdated
-  summary: Bash completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_edge
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-doc
-  visiblename: topgrade-doc
-  version: 17.13.1
-  origversion: 17.13.1-r0
-  status: outdated
-  summary: run upgrades of packages in OS and other package managers (documentation)
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_edge
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-fish-completion
-  visiblename: topgrade-fish-completion
-  version: 17.13.1
-  origversion: 17.13.1-r0
-  status: outdated
-  summary: Fish completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_edge
-  subrepo: community
-  srcname: topgrade
-  binname: topgrade-zsh-completion
-  visiblename: topgrade-zsh-completion
-  version: 17.13.1
-  origversion: 17.13.1-r0
-  status: outdated
-  summary: Zsh completions for topgrade
-  maintainers:
-    - seanmcavoy@gmail.com
   licenses:
     - GPL-3.0-or-later
 - repo: chimera
@@ -589,39 +610,6 @@
   summary: Multiple package-manager system updater (zsh completions)
   licenses:
     - GPL-3.0-or-later
-- repo: crates_io
-  srcname: topgrade
-  visiblename: topgrade
-  version: 17.15.0
-  origversion: null
-  status: newest
-  summary: Upgrade all the things
-- repo: freebsd
-  srcname: sysutils/topgrade
-  binname: topgrade
-  visiblename: sysutils/topgrade
-  version: 16.9.0
-  origversion: 16.9.0_6
-  status: outdated
-  summary: Tool for upgrade everything
-  maintainers:
-    - freebsd@scd-systems.net
-  categories:
-    - sysutils
-- repo: homebrew
-  srcname: topgrade
-  visiblename: topgrade
-  version: 17.15.0
-  origversion: null
-  status: newest
-  summary: Upgrade all the things
-- repo: homebrew
-  srcname: topgrade
-  visiblename: topgrade
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Upgrade all the things
 - repo: macports
   srcname: sysutils/topgrade
   binname: topgrade
@@ -641,24 +629,13 @@
   srcname: topgrade
   binname: topgrade
   visiblename: topgrade
-  version: 12.0.2
-  origversion: 12.0.2-1
+  version: 17.12.3
+  origversion: 17.12.3-1
   status: outdated
   summary: Upgrade all the things
   licenses:
-    - GPL3
+    - GPL-3.0-or-later
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 12.0.2
-  origversion: 12.0.2-1
-  status: outdated
-  summary: Upgrade all the things
-  licenses:
-    - GPL3
-- repo: manjaro_unstable
   subrepo: extra
   srcname: topgrade
   binname: topgrade
@@ -666,6 +643,17 @@
   version: 17.14.1
   origversion: 17.14.1-1
   status: outdated
+  summary: Upgrade all the things
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 17.15.0
+  origversion: 17.15.0-1
+  status: newest
   summary: Upgrade all the things
   licenses:
     - GPL-3.0-or-later
@@ -697,6 +685,18 @@
   srcname: topgrade
   visiblename: topgrade
   version: 16.0.3
+  origversion: null
+  status: outdated
+  summary: Upgrade all the things
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - i@xyenon.bid
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: topgrade
+  visiblename: topgrade
+  version: 16.6.1
   origversion: null
   status: outdated
   summary: Upgrade all the things
