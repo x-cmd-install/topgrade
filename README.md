@@ -14,11 +14,11 @@ x install topgrade
 
 ## Code insight
 
-Total: **15,379** lines of code across **56** files in the top 5 languages.
+Total: **15,382** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,364 | 673 | 2,445 | 46 |
+| Rust | 13,367 | 673 | 2,445 | 46 |
 | Yaml | 1,720 | 9 | 10 | 1 |
 | Toml | 210 | 365 | 164 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.15.0` (2026-11-03)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,744 · **Forks**: 297 · **Open issues**: 804 · **Contributors**: 321
+- **Stars**: 4,750 · **Forks**: 299 · **Open issues**: 805 · **Contributors**: 322
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1319 · **Open PRs**: 28 · **Closed issues**: 624 · **Open issues**: 180 · **Commits**: 2514
+- **Releases**: 78 · **Merged PRs**: 1321 · **Open PRs**: 28 · **Closed issues**: 625 · **Open issues**: 180 · **Commits**: 2516
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 5 | 53 | 7 | 12 | 10 | 57 |
-| last60d | 2026-09-07 | 12 | 114 | 7 | 31 | 17 | 121 |
-| 90d | 2026-08-08 | 12 | 139 | 7 | 39 | 23 | 161 |
-| last180d | 2026-05-10 | 19 | 276 | 17 | 96 | 53 | 319 |
-| 360d | 2025-11-11 | 33 | 599 | 18 | 166 | 87 | 655 |
-| last720d | 2024-11-16 | 41 | 832 | 25 | 305 | 121 | 908 |
+| 30d | 2026-10-08 | 5 | 54 | 7 | 12 | 10 | 59 |
+| last60d | 2026-09-08 | 12 | 115 | 7 | 31 | 16 | 123 |
+| 90d | 2026-08-09 | 12 | 141 | 7 | 40 | 23 | 163 |
+| last180d | 2026-05-11 | 19 | 274 | 17 | 97 | 53 | 321 |
+| 360d | 2025-11-12 | 33 | 601 | 18 | 167 | 86 | 657 |
+| last720d | 2024-11-17 | 41 | 833 | 25 | 306 | 119 | 910 |
 
 ## Release assets
 
@@ -84,14 +84,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **14** are ✅ on the latest upstream release, **74** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **20** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `17.15.0` | ✅ latest |
 | Nix unstable | `17.14.1` | ⚠️ outdated |
 | Void | `17.15.0` | ✅ latest |
-| Alpine edge | `17.13.1` | ⚠️ outdated |
+| Alpine edge | `17.15.0` | ✅ latest |
 | openSUSE Tumbleweed | `17.14.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:46:04Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:01:23Z._
