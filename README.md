@@ -14,19 +14,19 @@ x install topgrade
 
 ## Code insight
 
-Total: **15,382** lines of code across **56** files in the top 5 languages.
+Total: **15,400** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,367 | 673 | 2,445 | 46 |
-| Yaml | 1,720 | 9 | 10 | 1 |
+| Rust | 13,394 | 673 | 2,451 | 46 |
+| Yaml | 1,711 | 9 | 10 | 1 |
 | Toml | 210 | 365 | 164 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
 | Sh | 6 | 2 | 2 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.1 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.15.0` (2026-11-03)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,750 · **Forks**: 299 · **Open issues**: 805 · **Contributors**: 322
+- **Stars**: 4,753 · **Forks**: 300 · **Open issues**: 808 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1321 · **Open PRs**: 28 · **Closed issues**: 625 · **Open issues**: 180 · **Commits**: 2516
+- **Releases**: 78 · **Merged PRs**: 1326 · **Open PRs**: 29 · **Closed issues**: 629 · **Open issues**: 179 · **Commits**: 2521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 5 | 54 | 7 | 12 | 10 | 59 |
-| last60d | 2026-09-08 | 12 | 115 | 7 | 31 | 16 | 123 |
-| 90d | 2026-08-09 | 12 | 141 | 7 | 40 | 23 | 163 |
-| last180d | 2026-05-11 | 19 | 274 | 17 | 97 | 53 | 321 |
-| 360d | 2025-11-12 | 33 | 601 | 18 | 167 | 86 | 657 |
-| last720d | 2024-11-17 | 41 | 833 | 25 | 306 | 119 | 910 |
+| 30d | 2026-10-09 | 5 | 58 | 8 | 14 | 11 | 52 |
+| last60d | 2026-09-09 | 12 | 115 | 8 | 33 | 16 | 98 |
+| 90d | 2026-08-10 | 12 | 144 | 8 | 42 | 24 | 156 |
+| last180d | 2026-05-12 | 19 | 278 | 18 | 98 | 54 | 320 |
+| 360d | 2025-11-13 | 33 | 605 | 19 | 169 | 86 | 630 |
+| last720d | 2024-11-18 | 41 | 838 | 26 | 310 | 118 | 915 |
 
 ## Release assets
 
@@ -84,12 +84,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **20** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **21** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `17.15.0` | ✅ latest |
-| Nix unstable | `17.14.1` | ⚠️ outdated |
+| Nix unstable | `17.15.0` | ✅ latest |
 | Void | `17.15.0` | ✅ latest |
 | Alpine edge | `17.15.0` | ✅ latest |
 | openSUSE Tumbleweed | `17.14.1` | ⚠️ outdated |
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:01:23Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:03:41Z._
