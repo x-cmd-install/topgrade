@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,767 · **Forks**: 300 · **Open issues**: 810 · **Contributors**: 324
+- **Stars**: 4,769 · **Forks**: 300 · **Open issues**: 810 · **Contributors**: 324
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1334 · **Open PRs**: 29 · **Closed issues**: 631 · **Open issues**: 179 · **Commits**: 2529
+- **Releases**: 79 · **Merged PRs**: 1334 · **Open PRs**: 29 · **Closed issues**: 632 · **Open issues**: 178 · **Commits**: 2529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 6 | 65 | 8 | 15 | 11 | 60 |
-| last60d | 2026-09-11 | 13 | 116 | 8 | 35 | 16 | 106 |
-| 90d | 2026-08-12 | 13 | 151 | 8 | 44 | 24 | 164 |
-| last180d | 2026-05-14 | 20 | 285 | 18 | 99 | 54 | 328 |
-| 360d | 2025-11-15 | 34 | 597 | 19 | 169 | 85 | 638 |
-| last720d | 2024-11-20 | 42 | 846 | 26 | 310 | 118 | 921 |
+| 30d | 2026-10-12 | 6 | 62 | 8 | 15 | 10 | 60 |
+| last60d | 2026-09-12 | 11 | 114 | 8 | 34 | 14 | 106 |
+| 90d | 2026-08-13 | 13 | 151 | 8 | 45 | 23 | 164 |
+| last180d | 2026-05-15 | 20 | 283 | 18 | 99 | 52 | 328 |
+| 360d | 2025-11-16 | 34 | 596 | 19 | 168 | 84 | 638 |
+| last720d | 2024-11-21 | 42 | 846 | 26 | 311 | 117 | 921 |
 
 ## Release assets
 
@@ -84,14 +84,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **7** are ✅ on the latest upstream release, **81** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **13** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `17.16.0` | ✅ latest |
 | Nix unstable | `17.15.0` | ⚠️ outdated |
 | Void | `17.15.0` | ⚠️ outdated |
-| Alpine edge | `17.15.0` | ⚠️ outdated |
+| Alpine edge | `17.16.0` | ✅ latest |
 | openSUSE Tumbleweed | `17.14.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:32:50Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:28:18Z._
