@@ -14,13 +14,13 @@ x install topgrade
 
 ## Code insight
 
-Total: **15,439** lines of code across **56** files in the top 5 languages.
+Total: **15,447** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,433 | 675 | 2,453 | 46 |
+| Rust | 13,441 | 675 | 2,455 | 46 |
 | Yaml | 1,711 | 9 | 10 | 1 |
-| Toml | 210 | 365 | 164 | 7 |
+| Toml | 210 | 368 | 164 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
 | Sh | 6 | 2 | 2 | 1 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.16.0` (2026-11-09)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,780 · **Forks**: 300 · **Open issues**: 811 · **Contributors**: 324
+- **Stars**: 4,785 · **Forks**: 300 · **Open issues**: 811 · **Contributors**: 324
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1334 · **Open PRs**: 29 · **Closed issues**: 632 · **Open issues**: 179 · **Commits**: 2529
+- **Releases**: 79 · **Merged PRs**: 1337 · **Open PRs**: 28 · **Closed issues**: 634 · **Open issues**: 177 · **Commits**: 2532
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 6 | 59 | 8 | 15 | 11 | 60 |
-| last60d | 2026-09-13 | 11 | 107 | 8 | 33 | 15 | 106 |
-| 90d | 2026-08-14 | 13 | 148 | 8 | 45 | 24 | 164 |
-| last180d | 2026-05-16 | 19 | 282 | 18 | 96 | 51 | 328 |
-| 360d | 2025-11-17 | 34 | 592 | 19 | 165 | 83 | 638 |
-| last720d | 2024-11-22 | 42 | 846 | 26 | 311 | 118 | 921 |
+| 30d | 2026-10-14 | 6 | 60 | 7 | 16 | 10 | 63 |
+| last60d | 2026-09-14 | 10 | 104 | 7 | 34 | 14 | 109 |
+| 90d | 2026-08-15 | 13 | 151 | 7 | 46 | 23 | 167 |
+| last180d | 2026-05-17 | 19 | 285 | 17 | 97 | 50 | 331 |
+| 360d | 2025-11-18 | 33 | 594 | 18 | 167 | 81 | 641 |
+| last720d | 2024-11-23 | 42 | 849 | 25 | 313 | 116 | 924 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **14** are ✅ on the latest upstream release, **74** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **20** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:41:03Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:12:11Z._
