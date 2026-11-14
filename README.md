@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,785 · **Forks**: 300 · **Open issues**: 811 · **Contributors**: 324
+- **Stars**: 4,789 · **Forks**: 300 · **Open issues**: 811 · **Contributors**: 324
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 6 | 60 | 7 | 16 | 10 | 63 |
-| last60d | 2026-09-14 | 10 | 104 | 7 | 34 | 14 | 109 |
-| 90d | 2026-08-15 | 13 | 151 | 7 | 46 | 23 | 167 |
-| last180d | 2026-05-17 | 19 | 285 | 17 | 97 | 50 | 331 |
-| 360d | 2025-11-18 | 33 | 594 | 18 | 167 | 81 | 641 |
-| last720d | 2024-11-23 | 42 | 849 | 25 | 313 | 116 | 924 |
+| 30d | 2026-10-15 | 6 | 58 | 7 | 16 | 10 | 63 |
+| last60d | 2026-09-15 | 10 | 104 | 7 | 34 | 14 | 109 |
+| 90d | 2026-08-16 | 13 | 151 | 7 | 46 | 23 | 167 |
+| last180d | 2026-05-18 | 19 | 283 | 17 | 95 | 50 | 331 |
+| 360d | 2025-11-19 | 33 | 589 | 18 | 166 | 81 | 641 |
+| last720d | 2024-11-24 | 42 | 848 | 25 | 313 | 116 | 924 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:12:11Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:11:49Z._
