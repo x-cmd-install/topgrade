@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v17.16.0` (2026-11-09)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-14
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,789 · **Forks**: 300 · **Open issues**: 811 · **Contributors**: 324
+- **Stars**: 4,795 · **Forks**: 300 · **Open issues**: 811 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1337 · **Open PRs**: 28 · **Closed issues**: 634 · **Open issues**: 177 · **Commits**: 2532
+- **Releases**: 79 · **Merged PRs**: 1337 · **Open PRs**: 28 · **Closed issues**: 634 · **Open issues**: 177 · **Commits**: 2533
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 6 | 58 | 7 | 16 | 10 | 63 |
-| last60d | 2026-09-15 | 10 | 104 | 7 | 34 | 14 | 109 |
-| 90d | 2026-08-16 | 13 | 151 | 7 | 46 | 23 | 167 |
-| last180d | 2026-05-18 | 19 | 283 | 17 | 95 | 50 | 331 |
-| 360d | 2025-11-19 | 33 | 589 | 18 | 166 | 81 | 641 |
-| last720d | 2024-11-24 | 42 | 848 | 25 | 313 | 116 | 924 |
+| 30d | 2026-10-16 | 6 | 55 | 7 | 13 | 9 | 41 |
+| last60d | 2026-09-16 | 10 | 103 | 7 | 34 | 14 | 94 |
+| 90d | 2026-08-17 | 13 | 152 | 7 | 46 | 23 | 158 |
+| last180d | 2026-05-19 | 19 | 284 | 17 | 95 | 50 | 321 |
+| 360d | 2025-11-20 | 33 | 576 | 18 | 166 | 81 | 614 |
+| last720d | 2024-11-25 | 42 | 848 | 25 | 312 | 116 | 925 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:11:49Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:59:30Z._
