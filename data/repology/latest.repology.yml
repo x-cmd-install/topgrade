@@ -1,37 +1,34 @@
-- repo: manjaro_testing
-  subrepo: extra
+- repo: nix_stable_24_05
   srcname: topgrade
-  binname: topgrade
   visiblename: topgrade
-  version: 17.16.0
-  origversion: 17.16.0-1
-  status: newest
+  version: 14.0.1
+  origversion: null
+  status: outdated
   summary: Upgrade all the things
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - i@xyenon.bid
   licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_unstable
-  subrepo: extra
+    - GPL-3.0-only
+- repo: homebrew
   srcname: topgrade
-  binname: topgrade
   visiblename: topgrade
-  version: 17.16.0
-  origversion: 17.16.0-1
-  status: newest
-  summary: Upgrade all the things
-  licenses:
-    - GPL-3.0-or-later
-- repo: aur
-  srcname: topgrade-git
-  binname: topgrade-git
-  visiblename: topgrade-git
-  version: 17.12.0.r1.gd81c460
-  origversion: 17.12.0.r1.gd81c460-1
+  version: HEAD
+  origversion: null
   status: rolling
   summary: Upgrade all the things
+- repo: nix_stable_24_11
+  srcname: topgrade
+  visiblename: topgrade
+  version: 16.0.2
+  origversion: null
+  status: outdated
+  summary: Upgrade all the things
   maintainers:
-    - yochananmarqos@aur
+    - sandro.jaeckel@gmail.com
+    - i@xyenon.bid
   licenses:
-    - GPL-3.0-or-later
+    - GPL-3.0-only
 - repo: alpine_3_19
   subrepo: community
   srcname: topgrade
@@ -149,17 +146,6 @@
     - seanmcavoy@gmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: topgrade
-  binname: topgrade
-  visiblename: topgrade
-  version: 17.8.0
-  origversion: 17.8.0-r0
-  status: outdated
-  summary: Multiple package-manager system updater
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_3_20
   subrepo: community
   srcname: topgrade
@@ -225,6 +211,18 @@
     - seanmcavoy@gmail.com
   licenses:
     - GPL-3.0-or-later
+- repo: exherbo
+  subrepo: keruspe
+  srcname: sys-apps/topgrade
+  visiblename: sys-apps/topgrade
+  version: 5.1.0
+  origversion: null
+  status: outdated
+  summary: Upgrade everything
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - sys-apps
 - repo: alpine_3_21
   subrepo: community
   srcname: topgrade
@@ -275,17 +273,6 @@
   summary: run upgrades of packages in OS and other package managers (documentation)
   maintainers:
     - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: topgrade
-  binname: topgrade-bashcomp
-  visiblename: topgrade-bashcomp
-  version: 17.8.0
-  origversion: 17.8.0-r0
-  status: outdated
-  summary: Multiple package-manager system updater (bash completions)
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_22
@@ -353,6 +340,18 @@
     - seanmcavoy@gmail.com
   licenses:
     - GPL-3.0-or-later
+- repo: freebsd
+  srcname: sysutils/topgrade
+  binname: topgrade
+  visiblename: sysutils/topgrade
+  version: 16.9.0
+  origversion: 16.9.0_6
+  status: outdated
+  summary: Tool for upgrade everything
+  maintainers:
+    - freebsd@scd-systems.net
+  categories:
+    - sysutils
 - repo: alpine_3_23
   subrepo: community
   srcname: topgrade
@@ -403,17 +402,6 @@
   summary: Bash completions for topgrade
   maintainers:
     - seanmcavoy@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: topgrade
-  binname: topgrade-fishcomp
-  visiblename: topgrade-fishcomp
-  version: 17.8.0
-  origversion: 17.8.0-r0
-  status: outdated
-  summary: Multiple package-manager system updater (fish completions)
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_24
@@ -558,6 +546,51 @@
     - s34m@aur
   licenses:
     - GPL3
+- repo: aur
+  srcname: topgrade-git
+  binname: topgrade-git
+  visiblename: topgrade-git
+  version: 17.12.0.r1.gd81c460
+  origversion: 17.12.0.r1.gd81c460-1
+  status: rolling
+  summary: Upgrade all the things
+  maintainers:
+    - yochananmarqos@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: topgrade
+  binname: topgrade
+  visiblename: topgrade
+  version: 17.8.0
+  origversion: 17.8.0-r0
+  status: outdated
+  summary: Multiple package-manager system updater
+  licenses:
+    - GPL-3.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: topgrade
+  binname: topgrade-bashcomp
+  visiblename: topgrade-bashcomp
+  version: 17.8.0
+  origversion: 17.8.0-r0
+  status: outdated
+  summary: Multiple package-manager system updater (bash completions)
+  licenses:
+    - GPL-3.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: topgrade
+  binname: topgrade-fishcomp
+  visiblename: topgrade-fishcomp
+  version: 17.8.0
+  origversion: 17.8.0-r0
+  status: outdated
+  summary: Multiple package-manager system updater (fish completions)
+  licenses:
+    - GPL-3.0-or-later
 - repo: chimera
   subrepo: user
   srcname: topgrade
@@ -583,9 +616,9 @@
 - repo: chocolatey
   binname: topgrade
   visiblename: Topgrade (Portable)
-  version: 17.14.1
+  version: 17.16.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Topgrade is a cli program update utility
 - repo: crates_io
   srcname: topgrade
@@ -594,43 +627,12 @@
   origversion: null
   status: newest
   summary: Upgrade all the things
-- repo: exherbo
-  subrepo: keruspe
-  srcname: sys-apps/topgrade
-  visiblename: sys-apps/topgrade
-  version: 5.1.0
-  origversion: null
-  status: outdated
-  summary: Upgrade everything
-  maintainers:
-    - fallback-mnt-exherbo@repology
-  categories:
-    - sys-apps
-- repo: freebsd
-  srcname: sysutils/topgrade
-  binname: topgrade
-  visiblename: sysutils/topgrade
-  version: 16.9.0
-  origversion: 16.9.0_6
-  status: outdated
-  summary: Tool for upgrade everything
-  maintainers:
-    - freebsd@scd-systems.net
-  categories:
-    - sysutils
 - repo: homebrew
   srcname: topgrade
   visiblename: topgrade
   version: 17.16.0
   origversion: null
   status: newest
-  summary: Upgrade all the things
-- repo: homebrew
-  srcname: topgrade
-  visiblename: topgrade
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Upgrade all the things
 - repo: macports
   srcname: sysutils/topgrade
@@ -657,30 +659,28 @@
   summary: Upgrade all the things
   licenses:
     - GPL-3.0-or-later
-- repo: nix_stable_24_05
+- repo: manjaro_testing
+  subrepo: extra
   srcname: topgrade
+  binname: topgrade
   visiblename: topgrade
-  version: 14.0.1
-  origversion: null
-  status: outdated
+  version: 17.16.0
+  origversion: 17.16.0-1
+  status: newest
   summary: Upgrade all the things
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - i@xyenon.bid
   licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
+    - GPL-3.0-or-later
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: topgrade
+  binname: topgrade
   visiblename: topgrade
-  version: 16.0.2
-  origversion: null
-  status: outdated
+  version: 17.16.0
+  origversion: 17.16.0-1
+  status: newest
   summary: Upgrade all the things
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - i@xyenon.bid
   licenses:
-    - GPL-3.0-only
+    - GPL-3.0-or-later
 - repo: nix_stable_25_05
   srcname: topgrade
   visiblename: topgrade
