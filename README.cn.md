@@ -14,12 +14,12 @@ x install topgrade
 
 ## 代码洞察
 
-合计: **15,457** 行代码（覆盖前 5 种语言、共 **56** 个文件）。
+合计: **15,511** 行代码（覆盖前 5 种语言、共 **56** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 13,451 | 677 | 2,457 | 46 |
-| Yaml | 1,711 | 9 | 10 | 1 |
+| Rust | 13,496 | 681 | 2,465 | 46 |
+| Yaml | 1,720 | 9 | 10 | 1 |
 | Toml | 210 | 368 | 164 | 7 |
 | VimScript | 70 | 3 | 10 | 1 |
 | Sh | 6 | 2 | 2 | 1 |
@@ -42,27 +42,27 @@ x install topgrade
 ## 发布
 
 - **最新版本**: `v17.16.0` (2026-11-09)
-- **最近提交**: 2026-11-15
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 4,799 · **Fork**: 302 · **开放 issue**: 811 · **贡献者**: 324
+- **Star**: 4,804 · **Fork**: 305 · **开放 issue**: 813 · **贡献者**: 327
 
 ## 累计统计
 
-- **发布数**: 79 · **已合并 PR**: 1338 · **开放 PR**: 32 · **已关闭 issue**: 634 · **开放 issue**: 177 · **提交数**: 2534
+- **发布数**: 79 · **已合并 PR**: 1347 · **开放 PR**: 28 · **已关闭 issue**: 636 · **开放 issue**: 177 · **提交数**: 2542
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 55 | 10 | 11 | 9 | 42 |
-| last60d | 2026-09-17 | 10 | 103 | 11 | 33 | 14 | 95 |
-| 90d | 2026-08-18 | 13 | 152 | 11 | 46 | 22 | 159 |
-| last180d | 2026-05-20 | 19 | 282 | 21 | 95 | 50 | 322 |
-| 360d | 2025-11-21 | 32 | 577 | 22 | 166 | 81 | 615 |
-| last720d | 2024-11-26 | 42 | 849 | 29 | 312 | 116 | 926 |
+| 30d | 2026-10-18 | 4 | 56 | 6 | 11 | 9 | 50 |
+| last60d | 2026-09-18 | 10 | 110 | 7 | 35 | 14 | 103 |
+| 90d | 2026-08-19 | 13 | 160 | 7 | 48 | 21 | 167 |
+| last180d | 2026-05-21 | 18 | 289 | 17 | 94 | 50 | 330 |
+| 360d | 2025-11-22 | 32 | 586 | 18 | 168 | 81 | 624 |
+| last720d | 2024-11-27 | 42 | 858 | 25 | 314 | 116 | 934 |
 
 ## Release 资产
 
@@ -82,18 +82,6 @@ x install topgrade
 | [topgrade_17.16.0_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade_17.16.0_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
 | [topgrade_17.16.0_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade_17.16.0_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/topgrade) 上共有 **102** 个发行版报告此项目。**21** 个 ✅ 已是最新上游版本，**67** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `17.15.0` | ⚠️ outdated |
-| Void | `17.16.0` | ✅ latest |
-| Alpine edge | `17.16.0` | ✅ latest |
-| openSUSE Tumbleweed | `17.14.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 topgrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `topgrade` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -103,4 +91,4 @@ topgrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:25:11Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T11:05:09Z._
