@@ -26,13 +26,13 @@ Total: **15,511** lines of code across **56** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.8 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (4/10) — Found 9/19 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -41,46 +41,58 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v17.16.0` (2026-11-09)
+- **Latest**: `v17.17.0` (2026-11-17)
 - **Last commit**: 2026-11-17
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 4,804 · **Forks**: 305 · **Open issues**: 813 · **Contributors**: 327
+- **Stars**: 4,817 · **Forks**: 305 · **Open issues**: 814 · **Contributors**: 327
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1347 · **Open PRs**: 28 · **Closed issues**: 636 · **Open issues**: 177 · **Commits**: 2542
+- **Releases**: 80 · **Merged PRs**: 1349 · **Open PRs**: 27 · **Closed issues**: 636 · **Open issues**: 178 · **Commits**: 2544
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 56 | 6 | 11 | 9 | 50 |
-| last60d | 2026-09-18 | 10 | 110 | 7 | 35 | 14 | 103 |
-| 90d | 2026-08-19 | 13 | 160 | 7 | 48 | 21 | 167 |
-| last180d | 2026-05-21 | 18 | 289 | 17 | 94 | 50 | 330 |
-| 360d | 2025-11-22 | 32 | 586 | 18 | 168 | 81 | 624 |
-| last720d | 2024-11-27 | 42 | 858 | 25 | 314 | 116 | 934 |
+| 30d | 2026-10-20 | 4 | 50 | 5 | 11 | 10 | 52 |
+| last60d | 2026-09-20 | 11 | 106 | 6 | 32 | 15 | 105 |
+| 90d | 2026-08-21 | 14 | 159 | 6 | 48 | 21 | 169 |
+| last180d | 2026-05-23 | 19 | 289 | 16 | 91 | 51 | 332 |
+| 360d | 2025-11-24 | 33 | 582 | 17 | 165 | 82 | 626 |
+| last720d | 2024-11-29 | 43 | 860 | 24 | 314 | 117 | 936 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [topgrade-v17.16.0-aarch64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-aarch64-apple-darwin.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
-| [topgrade-v17.16.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-aarch64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/arm64/glibc` |
-| [topgrade-v17.16.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-aarch64-unknown-linux-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
-| [topgrade-v17.16.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-armv7-unknown-linux-gnueabihf.tar.gz) | 5.7 MiB | `native/linux/arm/glibc` |
-| [topgrade-v17.16.0-x86_64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-x86_64-apple-darwin.tar.gz) | 5.1 MiB | `native/darwin/x64` |
-| [topgrade-v17.16.0-x86_64-pc-windows-msvc.zip](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-x86_64-pc-windows-msvc.zip) | 4.7 MiB | `native/win/x64` |
-| [topgrade-v17.16.0-x86_64-unknown-freebsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-x86_64-unknown-freebsd.tar.gz) | 5.8 MiB | `native/linux/x64` |
-| [topgrade-v17.16.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-x86_64-unknown-linux-gnu.tar.gz) | 6.3 MiB | `native/linux/x64/glibc` |
-| [topgrade-v17.16.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-x86_64-unknown-linux-musl.tar.gz) | 6.4 MiB | `native/linux/x64/musl` |
-| [topgrade-v17.16.0-x86_64-unknown-openbsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade-v17.16.0-x86_64-unknown-openbsd.tar.gz) | 5.9 MiB | `native/linux/x64` |
-| [topgrade_17.16.0_amd64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade_17.16.0_amd64.deb) | 4.2 MiB | `runtime/deb/amd64` |
-| [topgrade_17.16.0_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade_17.16.0_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
-| [topgrade_17.16.0_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.16.0/topgrade_17.16.0_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
+| [topgrade-v17.17.0-aarch64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-aarch64-apple-darwin.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [topgrade-v17.17.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-aarch64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/arm64/glibc` |
+| [topgrade-v17.17.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-aarch64-unknown-linux-musl.tar.gz) | 5.9 MiB | `native/linux/arm64/musl` |
+| [topgrade-v17.17.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-armv7-unknown-linux-gnueabihf.tar.gz) | 5.7 MiB | `native/linux/arm/glibc` |
+| [topgrade-v17.17.0-x86_64-apple-darwin.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-apple-darwin.tar.gz) | 5.1 MiB | `native/darwin/x64` |
+| [topgrade-v17.17.0-x86_64-pc-windows-msvc.zip](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-pc-windows-msvc.zip) | 4.7 MiB | `native/win/x64` |
+| [topgrade-v17.17.0-x86_64-unknown-freebsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-freebsd.tar.gz) | 5.8 MiB | `native/linux/x64` |
+| [topgrade-v17.17.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-linux-gnu.tar.gz) | 6.3 MiB | `native/linux/x64/glibc` |
+| [topgrade-v17.17.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-linux-musl.tar.gz) | 6.4 MiB | `native/linux/x64/musl` |
+| [topgrade-v17.17.0-x86_64-unknown-openbsd.tar.gz](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-openbsd.tar.gz) | 5.9 MiB | `native/linux/x64` |
+| [topgrade_17.17.0_amd64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade_17.17.0_amd64.deb) | 4.2 MiB | `runtime/deb/amd64` |
+| [topgrade_17.17.0_arm64.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade_17.17.0_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
+| [topgrade_17.17.0_armhf.deb](https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade_17.17.0_armhf.deb) | 3.7 MiB | `runtime/deb/armhf` |
+
+## Distribution status
+
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **6** are ✅ on the latest upstream release, **82** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `17.16.0` | ⚠️ outdated |
+| Nix unstable | `17.15.0` | ⚠️ outdated |
+| Void | `17.16.0` | ⚠️ outdated |
+| Alpine edge | `17.16.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `17.16.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -91,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:05:08Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:15:46Z._
