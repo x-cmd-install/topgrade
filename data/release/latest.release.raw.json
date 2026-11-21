@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4898478,
       "digest": "sha256:8954d5ab7f559420be7cf4c6b4f10145abdb84e16d47d0379d42aa9c89de592b",
-      "download_count": 158,
+      "download_count": 243,
       "created_at": "2026-11-17T13:56:17Z",
       "updated_at": "2026-11-17T13:56:17Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6141302,
       "digest": "sha256:1c137db970eaad6298297a258d16f5d74015f0f5fdef0e56e4c7d83d8658212b",
-      "download_count": 110,
+      "download_count": 195,
       "created_at": "2026-11-17T13:55:51Z",
       "updated_at": "2026-11-17T13:55:51Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6142517,
       "digest": "sha256:10cccced7dd5bf1f27cbc7b8b333ea5f7bbbf818290b0a2452aa947f4dd01c08",
-      "download_count": 80,
+      "download_count": 152,
       "created_at": "2026-11-17T13:53:46Z",
       "updated_at": "2026-11-17T13:53:47Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6025509,
       "digest": "sha256:61068bd28e8b05ca1b03f941ce252f63f15b51383a914ecf16bf3782659c60c9",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-11-17T13:56:25Z",
       "updated_at": "2026-11-17T13:56:26Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5354466,
       "digest": "sha256:16dca6ceb97021f26ea021faa98e00133d97f9cd42b30fa9e54a33d7021685a0",
-      "download_count": 48,
+      "download_count": 59,
       "created_at": "2026-11-17T14:09:35Z",
       "updated_at": "2026-11-17T14:09:36Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4911334,
       "digest": "sha256:a411c6267f7bab1d012051594c2bc169a0ba797dcb6236caebdead3e520e030c",
-      "download_count": 1476,
+      "download_count": 2309,
       "created_at": "2026-11-17T13:55:51Z",
       "updated_at": "2026-11-17T13:55:52Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6102912,
       "digest": "sha256:c01f423b8c7ed1549a9b2c6326420667254f984d43eb4667527cf0f81143ed05",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-17T13:53:07Z",
       "updated_at": "2026-11-17T13:53:08Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-freebsd.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6578501,
       "digest": "sha256:559b836e737e8dfe698d81079aa86c9096d160679f7da3cf08a68e589f5da43d",
-      "download_count": 1333,
+      "download_count": 2230,
       "created_at": "2026-11-17T13:54:40Z",
       "updated_at": "2026-11-17T13:54:40Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6717282,
       "digest": "sha256:41c3e9e79ae7274461bad910401545250ffca1240805a55266270ef0af85c313",
-      "download_count": 991,
+      "download_count": 1447,
       "created_at": "2026-11-17T13:52:05Z",
       "updated_at": "2026-11-17T13:52:06Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-linux-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6166270,
       "digest": "sha256:7bb8552e0e11094918e42db7f0ac22a3e2d78b8fc9e9b98ba3d2f610a40b8880",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-17T14:07:37Z",
       "updated_at": "2026-11-17T14:07:37Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade-v17.17.0-x86_64-unknown-openbsd.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4436772,
       "digest": "sha256:cb354b0eba3773e6fb1e1ee760027ce24e9549a83f3624029a04ee2accd55dd9",
-      "download_count": 333,
+      "download_count": 531,
       "created_at": "2026-11-17T13:54:40Z",
       "updated_at": "2026-11-17T13:54:40Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade_17.17.0_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3904848,
       "digest": "sha256:1adae67c93794e4433368ec8e4953e855cdeb95386a3a1739479e19e166ebc36",
-      "download_count": 38,
+      "download_count": 59,
       "created_at": "2026-11-17T13:55:51Z",
       "updated_at": "2026-11-17T13:55:51Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade_17.17.0_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3876920,
       "digest": "sha256:9e093298fa6aff095f38d25a3b51a42460b779914f08e0db4ef747da255551b5",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-17T13:56:25Z",
       "updated_at": "2026-11-17T13:56:26Z",
       "browser_download_url": "https://github.com/topgrade-rs/topgrade/releases/download/v17.17.0/topgrade_17.17.0_armhf.deb"
@@ -510,8 +510,8 @@
   "body": "### Added\n- *(step)* add Lerd ([#2523](https://github.com/topgrade-rs/topgrade/pull/2523))\n- *(step)* add DMS plugins ([#2520](https://github.com/topgrade-rs/topgrade/pull/2520))\n- *(step)* add CrowdSec hub update step ([#2515](https://github.com/topgrade-rs/topgrade/pull/2515))\n- *(vim)* add opt-in plugin upgrade output ([#2415](https://github.com/topgrade-rs/topgrade/pull/2415))\n\n### Fixed\n- *(claude-code)* skip plugins installed in projects that no longer exists ([#2525](https://github.com/topgrade-rs/topgrade/pull/2525))",
   "reactions": {
     "url": "https://api.github.com/repos/topgrade-rs/topgrade/releases/448689062/reactions",
-    "total_count": 7,
-    "+1": 4,
+    "total_count": 8,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
