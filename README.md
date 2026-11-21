@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,817 · **Forks**: 305 · **Open issues**: 814 · **Contributors**: 327
+- **Stars**: 4,823 · **Forks**: 307 · **Open issues**: 814 · **Contributors**: 327
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 50 | 5 | 11 | 10 | 52 |
-| last60d | 2026-09-20 | 11 | 106 | 6 | 32 | 15 | 105 |
-| 90d | 2026-08-21 | 14 | 159 | 6 | 48 | 21 | 169 |
-| last180d | 2026-05-23 | 19 | 289 | 16 | 91 | 51 | 332 |
-| 360d | 2025-11-24 | 33 | 582 | 17 | 165 | 82 | 626 |
-| last720d | 2024-11-29 | 43 | 860 | 24 | 314 | 117 | 936 |
+| 30d | 2026-10-22 | 3 | 46 | 5 | 11 | 9 | 52 |
+| last60d | 2026-09-22 | 9 | 100 | 6 | 31 | 13 | 105 |
+| 90d | 2026-08-23 | 14 | 159 | 6 | 48 | 20 | 169 |
+| last180d | 2026-05-25 | 19 | 286 | 16 | 91 | 51 | 332 |
+| 360d | 2025-11-26 | 33 | 577 | 17 | 165 | 82 | 626 |
+| last720d | 2024-12-01 | 43 | 860 | 24 | 313 | 116 | 936 |
 
 ## Release assets
 
@@ -84,14 +84,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **6** are ✅ on the latest upstream release, **82** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/topgrade). **18** are ✅ on the latest upstream release, **70** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `17.16.0` | ⚠️ outdated |
-| Nix unstable | `17.15.0` | ⚠️ outdated |
+| Homebrew | `17.17.0` | ✅ latest |
+| Nix unstable | `17.16.0` | ⚠️ outdated |
 | Void | `17.16.0` | ⚠️ outdated |
-| Alpine edge | `17.16.0` | ⚠️ outdated |
+| Alpine edge | `17.17.0` | ✅ latest |
 | openSUSE Tumbleweed | `17.16.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -103,4 +103,4 @@ Install metadata for topgrade lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:15:46Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:46:47Z._
